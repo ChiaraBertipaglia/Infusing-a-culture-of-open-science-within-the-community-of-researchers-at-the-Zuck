@@ -8,4 +8,4 @@ I am working with my mentor Mateusz Kusak and my Open Life Science cohort to cre
 
 * Add link to CODE_OF_CONDUCT.md
 * Add a link to LICENSE.md
- 
+* Add a link to contributors' guidelines
