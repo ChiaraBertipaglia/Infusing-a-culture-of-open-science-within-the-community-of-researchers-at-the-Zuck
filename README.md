@@ -6,6 +6,6 @@ I am working with my mentor Mateusz Kusak and my Open Life Science cohort to cre
 * Mentor: Mateusz Kuzak @matkuzak
 
 
+* [LICENSE.md](https://github.com/ChiaraBertipaglia/Infusing-a-culture-of-open-science-within-the-community-of-researchers-at-the-Zuck/blob/master/LICENSE.md)
 * Add link to CODE_OF_CONDUCT.md
-* Add a link to LICENSE.md
 * Add a link to CONTRIBUTING.md
