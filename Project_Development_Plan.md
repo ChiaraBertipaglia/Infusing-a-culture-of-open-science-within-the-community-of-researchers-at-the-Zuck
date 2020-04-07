@@ -82,7 +82,7 @@ g) Find good examples of communities that have run engaging programs about open 
 Making the Open Science initiative at the Zuckerman Institute sustainable: distributed and shared leadership
 
 ## Tasks
-h) Empower contributors (aka co-developers) to become leaders of the programmatic content: mentor community members up to the highest level  of the *mountain of engagement [https://docs.google.com/document/d/1oy8qp_qhMalIVNu5Fx_1yv5SsO0CWAVQv8vC_9L2n1Y/edit#]” 
+h) Empower contributors (aka co-developers) to become leaders of the programmatic content: mentor community members up to the highest level  of the * [mountain of engagement] (https://docs.google.com/document/d/1oy8qp_qhMalIVNu5Fx_1yv5SsO0CWAVQv8vC_9L2n1Y/edit#) 
 - [ ] write a clear documentation for the project and the process of community members  involvement
 - [ ] create a tutorial to explain how members can be contributors (depending on how much time you have)
 - [ ] organize collaboration events
