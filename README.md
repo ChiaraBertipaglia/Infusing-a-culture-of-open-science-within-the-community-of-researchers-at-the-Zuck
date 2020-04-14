@@ -9,4 +9,4 @@ I am working with my mentor Mateusz Kusak and my Open Life Science cohort to cre
 * [LICENSE.md](https://github.com/ChiaraBertipaglia/Infusing-a-culture-of-open-science-within-the-community-of-researchers-at-the-Zuck/blob/master/LICENSE.md)
 * Add link to CODE_OF_CONDUCT.md
 * [CONTRIBUTING.md](https://github.com/ChiaraBertipaglia/Infusing-a-culture-of-open-science-within-the-community-of-researchers-at-the-Zuck/blob/master/CONTRIBUTING.md)
-* [Project Development Plan](https://github.com/ChiaraBertipaglia/Infusing-a-culture-of-open-science-within-the-community-of-researchers-at-the-Zuck/blob/master/Project_Development_Plan.md)
+* [Project Development Plan](./Project_Development_Plan.html)
