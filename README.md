@@ -6,7 +6,7 @@ I am working with my mentor Mateusz Kusak and my Open Life Science cohort to cre
 * Mentor: Mateusz Kuzak @matkuzak
 
 
-* [LICENSE.md](./LICENSE.html)
+* [License](./LICENSE.html)
 * Add link to CODE_OF_CONDUCT.md
-* [CONTRIBUTING.md](./CONTRIBUTING.html)
+* [Contribution guidelines](./CONTRIBUTING.html)
 * [Project Development Plan](./Project_Development_Plan.html)
