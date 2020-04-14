@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Milestone 1
 Assessing the ZI climate: where we are, what we need and where we want to go with our open science practices and policies
 What do people know about open science and what do they need?
