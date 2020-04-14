@@ -1,3 +1,7 @@
+---
+post: default
+---
+
 # This is a collaborative project and we welcome suggestions and contributions.
 ## If you would like to contribute to this project, thank you very much! 
 ### Here are some guidelines for how you can contribute. There is something for every level of engagement:
