@@ -60,7 +60,7 @@ Exploring pathways for dissemination of open science best practices, and selecti
 
 ## Tasks
 g) Find good examples of communities that have run engaging programs about open science:
-- [ ] connect more with Elisenda Bonet-Carne [OSCBa (Open Science Community Barcelona)|@bonetcarne] and Cass (Oxford), whose project vision is similar to mine
+- [ ] connect more with Elisenda Bonet-Carne (OSCBa - Open Science Community Barcelona - @bonetcarne) and Cassandra Gould van Praag (Oxford), whose project vision is similar to mine
 - [ ] learn from the UTDelft model of Data Champions and Data Stewardship, and from the Utrecht model
 - [ ] consult with community champions about creative ways to engage audiences about open science: move away from the lecture/presentation model and find someone who could lead workshops about several aspects of open science (case studies usually capture the imagination)
 - [ ] read https://open-science-training-handbook.gitbook.io/book/ (The focus of the new handbook is not spreading the ideas of Open Science, but showing how to spread these ideas most effectively)
