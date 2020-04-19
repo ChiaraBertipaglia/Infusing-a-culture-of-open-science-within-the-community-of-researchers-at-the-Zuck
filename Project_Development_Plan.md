@@ -7,7 +7,7 @@ Assessing the ZI climate: where we are, what we need and where we want to go wit
 What do people know about open science and what do they need?
 
 ## Tasks
-a) Do ~10 (?) 1:1 meetings with community members chosen at random, to assess how the community feels about open science (general value, practices). Questions to guide the 1:1 convos:
+a) Do ~10 1:1 meetings with community members chosen at random, to assess how the community feels about open science (general value, practices). Questions to guide the 1:1 convos:
 - inclination to deposit code/software openly (open source license)
 - inclination to deposit datasets in open repositories
 - inclination to publish own manuscripts as preprints (what % of your papers are on the arxiv?)
