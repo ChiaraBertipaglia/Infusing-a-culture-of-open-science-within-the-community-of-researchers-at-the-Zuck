@@ -42,13 +42,13 @@ d) In parallel. Identify community members who are skeptical about preprints and
 - to learn their motivations
 - to ask them how the ZI could further support them
 
-e) Use data from c) and d) to create persona profiles and a mountain of engagement based on these: define how different stakeholders might approach open science:
+e) Use data from c) and d) to create persona profiles and a related mountain of engagement: how might different stakeholders approach open science? Questions to guide the persona profiling:
 - What is the best way to pitch open science initiatives to them?
 - What incentives can we offer them to persuade them to adopt open science practices?
-- At what different levels might stakeholders engage with the org on these topics?
+- At what different levels might stakeholders engage with the organization on these topics?
 - What works and what doesn’t work for different groups of participants?
 - How do participants move from one engagement level to another? What happens when they get stuck between them?
-- How can we systematize the ways we recognize participants and invite them to deeperlevels of engagement over their lifetime in the community?
+- How can we systematize the ways we recognize participants and invite them to deeper levels of engagement over their lifetime in the community?
 
 f) Present the vision for this project and data from e) to CEO to make the case for why we need to develop programmatic content around open science, and support in general, as an institute, an open science culture. Goal: obtain CEO’s buy-in, in the form of behavior modeling and funding 
 
