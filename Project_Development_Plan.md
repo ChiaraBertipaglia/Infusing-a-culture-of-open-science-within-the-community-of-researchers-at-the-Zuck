@@ -27,7 +27,7 @@ b) Produce a General Data Protection Regulation (GDPR) plan (essential for all t
 
 # Milestone 2
 
-Identifying and engaging critical stakeholders among the ZI community of researchers and leadership who will be involved in this project following open leadership best practices
+Following open leadership best practices, identifying and engaging critical stakeholders among the ZI community of researchers and leadership who will be involved in this project. 
 
 ## Tasks
 c) Identify community members who already publish preprints and/or code openly and interview them. Have ~10 1:1 conversations: 
