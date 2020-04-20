@@ -87,8 +87,8 @@ Making the Open Science initiative at the Zuckerman Institute sustainable: distr
 
 ## Tasks
 h) Empower contributors (aka co-developers) to become leaders of the programmatic content: mentor community members up to the highest level  of the * [mountain of engagement](https://docs.google.com/document/d/1oy8qp_qhMalIVNu5Fx_1yv5SsO0CWAVQv8vC_9L2n1Y/edit#) 
-- [ ] write a clear documentation for the project and the process of community members  involvement
-- [ ] create a tutorial to explain how members can be contributors (depending on how much time you have)
+- [ ] write a clear documentation of the process for how community members  can get involved
+- [ ] create a tutorial to explain how members can be contributors 
 - [ ] organize collaboration events
 - [ ] establish a communication platform to bring contributors together (ex.: Slack)
 
