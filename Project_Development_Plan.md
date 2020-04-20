@@ -31,7 +31,7 @@ Following open leadership best practices, identifying and engaging critical stak
 
 ## Tasks
 c) Identify community members who already publish preprints and/or code openly and interview them. Have ~10 1:1 conversations: 
-- to learn what motivates them to adopt open science practices (mix of PIs and postdocs)
+- to learn what motivates them to adopt open science practices 
 - to ask them how the ZI could further support them
 - to ask them to be community champions/advocates for this cause by:
     being consultants to create programmatic content (both events and communications);
